@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DisplayText</string>
+    <string name="entered_text">Entered text</string>
+    <string name="click">Click!</string>
+    <string name="input_text">Enter your text here</string>
+</resources>
